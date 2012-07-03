@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name="sitedeploy",
       version="1.0",
       description="site deployment",
-      long_description = open("README.txt").read(),
+      long_description = open("README.rst").read(),
       keywords=("site, deploy, synchronize, ftp, ssh"),
       author="David Siroky",
       author_email="siroky@dasir.cz",
